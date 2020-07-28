@@ -9,4 +9,10 @@ Then create action items with many options to choose from like members, due date
 
 This software holds the various methods to filter and sort the action items.
 
+# About the project (technicality)
 
+Java 8+
+
+This repository is an eclipse project.
+
+Created by Sawan Gaba
